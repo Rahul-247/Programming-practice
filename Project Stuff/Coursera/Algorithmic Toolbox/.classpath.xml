@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="fib_n_mod_m/src"/>
+	<classpathentry kind="src" path="fib_test/src"/>
+	<classpathentry kind="src" path="find the last digit of a partial sum of Fibonacci numbers/src"/>
+	<classpathentry kind="src" path="Last Digit of the Sum of Fibonacci Numbers/src"/>
+	<classpathentry kind="src" path="Last Digit of the Sum of Squares of Fibonacci Numbers/src"/>
+	<classpathentry kind="src" path="LCM/src"/>
+	<classpathentry kind="output" path="LCM/bin"/>
+</classpath>
